@@ -1,3 +1,4 @@
+<img width="1224" height="816" alt="sql_tmdb" src="https://github.com/user-attachments/assets/6315b7bb-3baa-48d8-a45c-dddb2526bb74" />
 # 🎬 TMDb Movie Database SQL Analysis
 
 ### Relational Database Querying & Analysis with SQL
