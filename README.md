@@ -1,6 +1,6 @@
-# SQL Projects
+# Data Projects
 
-A collection of practical SQL analysis projects.
+A collection of practical Data analysis projects.
 
 ## Projects
 
