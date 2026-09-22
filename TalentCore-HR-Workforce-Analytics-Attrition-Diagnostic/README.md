@@ -1,3 +1,4 @@
+<img width="2102" height="1140" alt="image" src="https://github.com/user-attachments/assets/5906f5b1-8494-4568-9f78-753cd48419f3" />
 # 📊 TalentCore HR Workforce Analytics & Attrition Diagnostic
 
 ### Pan-African HR Data Mining & Interactive Power BI Dashboard
